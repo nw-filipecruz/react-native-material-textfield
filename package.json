@@ -34,7 +34,8 @@
 
   "peerDependencies": {
     "react": ">=16.3.0",
-    "react-native": ">=0.55.0"
+    "react-native": ">=0.55.0",
+    "deprecated-react-native-prop-types": "^2.3.0",
   },
 
   "devDependencies": {
